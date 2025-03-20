@@ -2,12 +2,11 @@
   
 - My interests include software development, video games, weightlifting, and sports (go 49ers, Giants, and Sharks!)
   
-- I'm currently learning different programming methods- particularly object oriented and functional programming in C++.
+- I'm currently learning different programming methodologies- particularly object oriented and functional programming in C++.
   
 - In my time studying computer science/programming, I have gained experience with C++, C, Python, Linux, Git, GDB, and more!
   
-- My current personal project is a web scraper built in Python that will collect the records and statistics of UFC fighters, allowing for comparisons to be made between
-  fighters to assist viewers understanding each althlete's strengths/weaknesses, in order to help them predict the winner of a given future matchup.
+- My current personal project is a web scraper built in Python that will collect the records and statistics of UFC fighters, allowing for comparisons to be made between fighters to assist viewers understanding each althlete's strengths/weaknesses, in order to help them predict the winner of a given future matchup.
   
 - The best way to reach me is via email, at jackt@pdx.edu
 
